@@ -126,3 +126,9 @@ if __name__ == "__main__":
 *Fungsi main bertindak sebagai jembatan interaksi (CLI) yang merangkai objek dan pemanggilan metodanya. Program sengaja dibungkus dalam perulangan tak terbatas (while True) supaya pengguna bisa terus mencari berbagai nilai X berulang kali tanpa perlu memasukkan ulang data set awal, hingga pengguna memutuskannya dengan mengetik 'q'.*
 
 
+## Hasil
+
+<img width="1265" height="920" alt="image" src="https://github.com/user-attachments/assets/b934326b-ff9d-4c69-8075-6eddefd4e24f" />
+
+
+
