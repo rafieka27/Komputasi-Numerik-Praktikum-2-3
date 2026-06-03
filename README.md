@@ -7,7 +7,7 @@
 
 ## Langkah-Langkah potongan kode
 
-### Mengimpor Library & Inisialisasi Kelas Utama
+### 1.Mengimpor Library & Inisialisasi Kelas Utama
 
 ```py
 import math
@@ -20,7 +20,7 @@ class NewtonGregoryInterpolator:
         self.diff_table = []
         self.h = 0
 ```
-Langkah pertama adalah mengimpor library matematika bawaan Python dan mendefinisikan kelas NewtonGregoryInterpolator. Fungsi __init__ bertugas menyiapkan wadah memori dasar saat objek dibuat, seperti list kosong untuk titik koordinat (X, Y), variabel jumlah data (n), jarak interval (h), dan matriks tabel selisih.
+*Langkah pertama adalah mengimpor library matematika bawaan Python dan mendefinisikan kelas NewtonGregoryInterpolator. Fungsi __init__ bertugas menyiapkan wadah memori dasar saat objek dibuat, seperti list kosong untuk titik koordinat (X, Y), variabel jumlah data (n), jarak interval (h), dan matriks tabel selisih.*
 
 
 
